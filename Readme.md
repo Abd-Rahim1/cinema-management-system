@@ -22,4 +22,5 @@ Movies are stored in a **CSV file (Movie.csv)**, which you can open with Excel o
 
 1. **Compile** the code:
    ```bash
-   gcc cinema.c -o cinema
+   gcc Project.c -o Project
+   ./Project.exe

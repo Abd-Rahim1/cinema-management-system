@@ -1,0 +1,51 @@
+Inception,2010,Action,8.80
+Toy Story 3,2010,Animation,8.30
+The Social Network,2010,Biography,7.70
+The king's Speech,2010,Biography,8.00
+Black Swan,2010,Drama,8.00
+The Help,2011,Drama,8.00
+The Artist,2011,Comedy,7.90
+Midnight in Paris,2011,Romance,7.70
+The Avengers,2012,Action    ,8.00
+Djanjo Unchained ,2012,Drama,8.40
+The Great Gatsby,2013,Drama,7.30
+Gravity,2013,Adventure,7.70
+12 Years a Slave,2013,Biography,8.10
+The Wolf of Wall Street,2013,Biography,8.20
+Frozen,2013,Animation,7.40
+Guardians of the Galaxy,2014,Action,8.00
+Birdman,2014,Drama,7.70
+The Grand Budapest Hotel,2014,Comedy,8.10
+Gone Girl,2014,Thriller,8.10
+Interstellar,2014,Adventure,8.60
+Mad Max: Fury Road,2015,Action,8.10
+Spotlight,2015,Biography,8.10
+The Revenant,2015,Adventure,8.00
+Inside Out,2015,Animation,8.10
+The Big Short,2015,Comedy,7.80
+Zootopia,2016,Animation,8.00
+La La Land,2016,Romance,8.00
+Moonlight,2016,Drama,7.40
+Arrival,2016,Science Fiction,8.00
+Logan,2017,Action,8.10
+Get Out,2017,Horror,7.70
+Lady Bird,2017,Comedy,7.50
+Wonder Woman,2017,Action,7.90
+The Shape of Water,2017,Romance,7.30
+Black Panther,2018,Action,7.90
+A Star Is Born,2018,Romance,7.70
+Bohemian Rhapsody,2018,Biography,7.90
+Roma,2018,Drama,7.70
+Avengers: Endgame,2019,Action,8.40
+Parasite,2019,Drama,8.60
+Joker,2019,Thriller,8.40
+1917,2019,War,8.30
+Knives Out,2019,Comedy,7.90
+Soul,2020,Animation,8.10
+Nomadland,2020,Drama,7.30
+Promising Young Woman,2020,Thriller,7.50
+The Trial of the Chicago 7,2020,Drama,7.80
+Dune,2021,Science Fiction,8.10
+No Time to Die,2021,Action,7.70
+Encanto,2021,Animation,7.30
+Super Tounsi,2024,Comedy,7.50
